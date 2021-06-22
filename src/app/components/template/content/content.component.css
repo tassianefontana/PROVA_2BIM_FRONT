@@ -1,0 +1,13 @@
+
+mat-sidenav{
+    background-color: rgba(250, 189, 250, 0.432);
+
+}
+
+
+
+mat-sidenav-container{
+    background-color: rgba(250, 189, 250, 0.288);
+    min-height: 100%;
+
+}

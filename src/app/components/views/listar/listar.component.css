@@ -1,0 +1,37 @@
+
+
+div{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+    color:deeppink;
+    font-weight: bold;
+}
+
+
+table {
+    margin-top: 20px;
+    width: 90%;
+}
+
+th{
+    color:rgba(39, 0, 130, 0.822);
+    background-color:rgba(169, 169, 169, 0.212);
+}
+
+td{
+    background-color: rgba(240, 248, 255, 0.37);
+}
+
+a{
+    margin-left: 45%;
+    margin-top: 50px;
+    background-color: white;
+}
+
+

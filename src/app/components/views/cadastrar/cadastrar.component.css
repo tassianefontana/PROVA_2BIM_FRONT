@@ -1,0 +1,23 @@
+mat-card{
+    margin:20px;
+    
+}
+
+a{
+    margin-top: 10px;
+    background-color: deeppink;
+    color: white;
+}
+
+mat-form-field{
+    width: 25%;
+}
+
+button{
+    margin: 10px;
+}
+
+mat-card-title{
+    color: deeppink;
+
+}
